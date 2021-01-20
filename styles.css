@@ -1,11 +1,11 @@
 .center-screen{
     position: absolute;
     top: 50%;
-    right: 10%;
+    left: 50%;
     margin-top: -50px;
     margin-left: -50px;
-    width: 800px;
-    height: 300px;
+    width: 200px;
+    height: 100px;
 }
 
 div.sticky {
