@@ -1,0 +1,36 @@
+.center-screen{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 200px;
+    height: 100px;
+}
+
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    height: 40px;
+    background-color: #100620;
+    border: 2px solid #061a52;
+    text-align: center;
+}
+
+div.right {
+    right: 40%;
+}
+
+body {
+    color: #d7d7d8;
+    background-color: #060611;
+}
+a {
+    color: #66bbff;
+}
+code {
+    color: #d5dada;
+    background: #313231;
+}
